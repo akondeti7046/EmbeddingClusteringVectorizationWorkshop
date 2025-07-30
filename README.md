@@ -1,0 +1,2 @@
+# EmbeddingClusteringVectorizationWorkshop
+lab 9 
